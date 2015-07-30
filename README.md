@@ -1,4 +1,5 @@
 # Phaser Farm Game
-## Children's Farm Game built on the Phase JS framework
+## Children's Farm Game built with Phase JS framework
 
-Demo: http://gregoryljackson.com/games/farm
+Phaser: <a href="http://phaser.io" target="_blank">http://phaser.iofarm</a>
+Demo: <a href="http://gregoryljackson.com/games/farm" target="_blank">http://gregoryljackson.com/games/farm</a>
